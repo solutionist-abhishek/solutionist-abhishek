@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abhishek Singh</h1>
 <h3 align="center">Machine learning engineer</h3>
-<img align="right" alt="coding" width="400" src="https://github.com/user-attachments/assets/e7accc7b-c434-4f38-93a4-56525fdd942d">
 - 🌱 I’m currently learning **machine learning,tensorflow,pytorch**
 
 - 📫 How to reach me **avsingh1678@gmail.com**
